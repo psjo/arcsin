@@ -1,0 +1,16 @@
+<strings>
+
+    <string id="AppName">aRCsin</string>
+    <string id="AppVersion">20170207</string>
+
+    <string id="appTitle">the name</string>
+    <string id="vTitle">the version</string>
+    <string id="aTitle">analog watch mode</string>
+    <string id="adayTitle">day of week in analog mode, in HPM</string>
+    <string id="adateTitle">date in analog mode, in HPM</string>
+    <string id="marksTitle">minute marks in analog mode, in LPM</string>
+    <string id="sTitle">seconds in analog mode, only HPM</string>
+    <string id="shTitle">short hour and minute hands in HPM analog mode</string>
+    <string id="allTitle">date, day and marks in analog mode, in LPM</string>
+
+</strings>

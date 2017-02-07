@@ -1,0 +1,37 @@
+<settings>
+    <setting propertyKey="@Properties.app" title="@Strings.appTitle">
+        <settingConfig type="alphaNumeric" readonly="true" />
+    </setting>
+    <setting propertyKey="@Properties.v" title="@Strings.vTitle">
+        <settingConfig type="alphaNumeric" readonly="true" />
+    </setting>
+
+    <setting propertyKey="@Properties.a" title="@Strings.aTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.adate" title="@Strings.adateTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.aday" title="@Strings.adayTitle">
+        <settingConfig type="boolean" readonly="false"/>
+    </setting>
+
+    <setting propertyKey="@Properties.marks" title="@Strings.marksTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.s" title="@Strings.sTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.sh" title="@Strings.shTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.all" title="@Strings.allTitle">
+        <settingConfig type="boolean" />
+    </setting>
+
+</settings>

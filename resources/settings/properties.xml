@@ -1,0 +1,12 @@
+<properties>
+    <property id="app" type="string">aRCsin</property>
+    <property id="v" type="string">20170207</property>
+    <property id="a" type="boolean">true</property>
+    <property id="adate" type="boolean">true</property>
+    <property id="aday" type="boolean">true</property>
+    <property id="marks" type="boolean">false</property>
+    <property id="s" type="boolean">false</property>
+    <property id="sh" type="boolean">true</property>
+    <property id="all" type="boolean">false</property>
+
+</properties>

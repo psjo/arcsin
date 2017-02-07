@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="20" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="21" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="24" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="25" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="28" pc="268435510" symbol="onShow"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="31" pc="268435515" symbol="onUpdate"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="32" pc="268435519" symbol="onUpdate"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="33" pc="268435530" symbol="onUpdate"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="34" pc="268435542" symbol="onUpdate"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="37" pc="268435555" symbol="onUpdate"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="38" pc="268435569" symbol="onUpdate"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="39" pc="268435580" symbol="onUpdate"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="41" pc="268435597" symbol="onUpdate"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="45" pc="268435612" symbol="bg"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="46" pc="268435616" symbol="bg"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="47" pc="268435645" symbol="bg"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="50" pc="268435658" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="51" pc="268435662" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="52" pc="268435710" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="53" pc="268435720" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="54" pc="268435730" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="55" pc="268435755" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="57" pc="268435768" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="58" pc="268435784" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="59" pc="268435800" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="60" pc="268435825" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="61" pc="268435835" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="62" pc="268435845" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="63" pc="268435856" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="65" pc="268435896" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="66" pc="268435933" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="68" pc="268435970" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="69" pc="268435981" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="71" pc="268436021" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="72" pc="268436058" symbol="times"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="77" pc="268436096" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="78" pc="268436100" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="79" pc="268436139" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="80" pc="268436156" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="81" pc="268436185" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="82" pc="268436203" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="83" pc="268436220" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="85" pc="268436298" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="88" pc="268436389" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="89" pc="268436437" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="90" pc="268436476" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="91" pc="268436505" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="92" pc="268436515" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="93" pc="268436525" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="94" pc="268436536" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="96" pc="268436576" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="97" pc="268436613" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="99" pc="268436650" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="100" pc="268436661" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="102" pc="268436701" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="103" pc="268436738" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="106" pc="268436775" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="107" pc="268436814" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="109" pc="268436860" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="110" pc="268436876" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="111" pc="268436919" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="112" pc="268436935" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="113" pc="268436960" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="114" pc="268436977" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="115" pc="268437007" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="117" pc="268437039" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="119" pc="268437068" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="120" pc="268437131" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="121" pc="268437155" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="123" pc="268437188" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="125" pc="268437217" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="127" pc="268437283" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="128" pc="268437300" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="129" pc="268437330" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="131" pc="268437362" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="133" pc="268437391" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="134" pc="268437454" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="135" pc="268437471" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="136" pc="268437495" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="138" pc="268437528" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="140" pc="268437557" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="142" pc="268437620" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="143" pc="268437645" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="144" pc="268437667" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="145" pc="268437684" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="146" pc="268437713" symbol="atimes"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="150" pc="268437780" symbol="hours"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="151" pc="268437784" symbol="hours"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="152" pc="268437821" symbol="hours"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="155" pc="268437859" symbol="mins"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="156" pc="268437863" symbol="mins"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="157" pc="268437900" symbol="mins"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="161" pc="268437938" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="162" pc="268437942" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="163" pc="268437971" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="164" pc="268437982" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="165" pc="268437999" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="166" pc="268438068" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="168" pc="268438093" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="169" pc="268438104" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="170" pc="268438121" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="172" pc="268438204" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="173" pc="268438221" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="175" pc="268438304" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="176" pc="268438321" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="177" pc="268438390" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="179" pc="268438473" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="180" pc="268438490" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="181" pc="268438559" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="183" pc="268438642" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="184" pc="268438659" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="185" pc="268438728" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="186" pc="268438745" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="188" pc="268438828" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="189" pc="268438845" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="190" pc="268438914" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="192" pc="268438997" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="193" pc="268439014" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="194" pc="268439083" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="195" pc="268439100" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="197" pc="268439183" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="198" pc="268439200" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="200" pc="268439283" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="201" pc="268439300" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="202" pc="268439369" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="204" pc="268439452" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="205" pc="268439469" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="206" pc="268439538" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="207" pc="268439555" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="209" pc="268439638" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="210" pc="268439655" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="212" pc="268439738" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="213" pc="268439755" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="214" pc="268439824" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="216" pc="268439907" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="217" pc="268439924" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="218" pc="268439993" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="220" pc="268440076" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="221" pc="268440093" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="222" pc="268440162" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="224" pc="268440245" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="225" pc="268440262" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="226" pc="268440331" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="227" pc="268440348" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="228" pc="268440417" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="229" pc="268440434" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="231" pc="268440517" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="232" pc="268440534" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="233" pc="268440603" symbol="lpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="238" pc="268440676" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="239" pc="268440680" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="240" pc="268440709" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="241" pc="268440720" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="242" pc="268440737" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="243" pc="268440812" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="245" pc="268440837" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="246" pc="268440848" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="247" pc="268440865" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="249" pc="268440954" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="250" pc="268440971" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="252" pc="268441060" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="253" pc="268441077" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="254" pc="268441152" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="256" pc="268441241" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="257" pc="268441258" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="258" pc="268441333" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="260" pc="268441422" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="261" pc="268441439" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="262" pc="268441514" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="263" pc="268441531" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="265" pc="268441620" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="266" pc="268441637" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="267" pc="268441712" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="269" pc="268441801" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="270" pc="268441818" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="271" pc="268441893" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="272" pc="268441910" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="274" pc="268441999" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="275" pc="268442016" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="277" pc="268442105" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="278" pc="268442122" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="279" pc="268442197" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="281" pc="268442286" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="282" pc="268442303" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="283" pc="268442378" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="284" pc="268442395" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="286" pc="268442484" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="287" pc="268442509" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="289" pc="268442548" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="290" pc="268442565" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="291" pc="268442640" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="292" pc="268442715" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="294" pc="268442754" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="295" pc="268442771" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="296" pc="268442846" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="297" pc="268442921" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="299" pc="268442960" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="300" pc="268442977" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="301" pc="268443052" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="302" pc="268443127" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="304" pc="268443166" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="305" pc="268443183" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="306" pc="268443258" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="307" pc="268443333" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="309" pc="268443372" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="310" pc="268443389" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="311" pc="268443464" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="312" pc="268443539" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="314" pc="268443578" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="315" pc="268443603" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="317" pc="268443631" symbol="rpad"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="320" pc="268443661" symbol="onHide"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="323" pc="268443666" symbol="onExitSleep"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="324" pc="268443670" symbol="onExitSleep"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="327" pc="268443681" symbol="onEnterSleep"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="328" pc="268443685" symbol="onEnterSleep"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="331" pc="268443696" symbol="loadSet"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="332" pc="268443700" symbol="loadSet"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="333" pc="268443717" symbol="loadSet"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="334" pc="268443741" symbol="loadSet"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="335" pc="268443765" symbol="loadSet"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="336" pc="268443789" symbol="loadSet"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="337" pc="268443813" symbol="loadSet"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="338" pc="268443837" symbol="loadSet"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="339" pc="268443861" symbol="loadSet"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinView.mc" lineNum="340" pc="268443885" symbol="loadSet"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinApp.mc" lineNum="7" pc="268443916" symbol="initialize"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinApp.mc" lineNum="8" pc="268443920" symbol="initialize"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinApp.mc" lineNum="12" pc="268443939" symbol="onStart"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinApp.mc" lineNum="16" pc="268443944" symbol="onStop"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinApp.mc" lineNum="20" pc="268443949" symbol="getInitialView"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinApp.mc" lineNum="21" pc="268443953" symbol="getInitialView"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinApp.mc" lineNum="22" pc="268443983" symbol="getInitialView"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinApp.mc" lineNum="26" pc="268444007" symbol="onSettingsChanged"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinApp.mc" lineNum="27" pc="268444011" symbol="onSettingsChanged"/>
+<entry filename="/Users/keso/src/workspace/arcsin/source/arcsinApp.mc" lineNum="28" pc="268444027" symbol="onSettingsChanged"/>
+<entry filename="Rez" lineNum="28" pc="268444044" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="30" pc="268444048" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="31" pc="268444072" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="32" pc="268444235" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="33" pc="268444260" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="34" pc="268444312" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="37" pc="268444358" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="24" symbol="vTitle"/>
+<entry field="true" id="31" symbol="short"/>
+<entry id="41" method="true" symbol="rpad"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="20" symbol="allTitle"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8" object="true" symbol="arcsinView"/>
+<entry id="8389342" method="true" symbol="hours"/>
+<entry field="true" id="28" symbol="adate"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="40" method="true" symbol="lpad"/>
+<entry field="true" id="21" symbol="sTitle"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="19" symbol="adateTitle"/>
+<entry id="37" method="true" symbol="times"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="23" symbol="AppName"/>
+<entry field="true" id="10" symbol="view"/>
+<entry id="8389375" method="true" symbol="WatchFace"/>
+<entry field="true" id="30" symbol="marks"/>
+<entry field="true" id="18" symbol="shTitle"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="42" method="true" symbol="loadSet"/>
+<entry field="true" id="35" symbol="all"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="27" symbol="atime"/>
+<entry field="true" id="33" symbol="load"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="39" method="true" symbol="mins"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="9" object="true" symbol="arcsinApp"/>
+<entry field="true" id="14" symbol="AppVersion"/>
+<entry field="true" id="29" symbol="aday"/>
+<entry field="true" id="17" symbol="adayTitle"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="15" symbol="aTitle"/>
+<entry field="true" id="32" symbol="on"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry field="true" id="26" symbol="is12"/>
+<entry field="true" id="22" symbol="appTitle"/>
+<entry field="true" id="16" symbol="marksTitle"/>
+<entry id="38" method="true" symbol="atimes"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="34" symbol="s"/>
+<entry field="true" id="25" symbol="r"/>
+<entry id="36" method="true" symbol="bg"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436092" name="m" stackId="6" startPc="268435825"/>
+<entry endPc="268436092" name="d" stackId="5" startPc="268435825"/>
+<entry endPc="268436095" name="mi" stackId="4" startPc="268435662"/>
+<entry endPc="268436095" name="now" stackId="2" startPc="268435662"/>
+<entry endPc="268436095" name="ho" stackId="3" startPc="268435662"/>
+<entry endPc="268436386" name="i" stackId="2" startPc="268436203"/>
+<entry endPc="268436772" name="m" stackId="5" startPc="268436476"/>
+<entry endPc="268436772" name="d" stackId="4" startPc="268436476"/>
+<entry endPc="268437776" name="sec" stackId="8" startPc="268437645"/>
+<entry endPc="268437779" name="mi" stackId="6" startPc="268436100"/>
+<entry endPc="268437779" name="now" stackId="3" startPc="268436100"/>
+<entry endPc="268437779" name="ho" stackId="7" startPc="268436100"/>
+<entry endPc="268443915" name="app" stackId="1" startPc="268443700"/>
+<entry endPc="268444385" name="rez_cmp_local_bitmap_TimeLabel" stackId="3" startPc="268444048"/>
+<entry endPc="268444385" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="4" startPc="268444048"/>
+<entry endPc="268444385" name="rez_cmp_local_custom_drawable_BBT5RKW3OONPGBG0VYZ9" stackId="2" startPc="268444048"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="arcsinView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="arcsinView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="arcsinView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="arcsinView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="bg" parent="arcsinView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="times" parent="arcsinView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="atimes" parent="arcsinView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="hours" parent="arcsinView">
+<param id="dc"/>
+<param id="ho"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="mins" parent="arcsinView">
+<param id="dc"/>
+<param id="mi"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="lpad" parent="arcsinView">
+<param id="dc"/>
+<param id="ho"/>
+<param id="pad"/>
+<param id="mul"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="rpad" parent="arcsinView">
+<param id="dc"/>
+<param id="ho"/>
+<param id="pad"/>
+<param id="mul"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="arcsinView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="arcsinView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="arcsinView">
+<documentation/>
+</functionEntry>
+<functionEntry name="loadSet" parent="arcsinView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="arcsinApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="arcsinApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="arcsinApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="arcsinApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="arcsinApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
